@@ -1,8 +1,10 @@
+
 body {
     background: #CCCCCC;
 }
  .principal {
      background: #CCCCCC;
+     padding: 30px;
  }
  h1 {
     text-align: center;
@@ -23,6 +25,7 @@ em strong {
 }
  .beneficios {
     background:#FFFFFF
+    padding: 20px;
  }
 
     .itens {
@@ -31,6 +34,12 @@ em strong {
     h2{
         .itens
         font-style: italic;
+    }
+    ul {
+        display: inline-block;
+        vertical-align: top;
+        width: 20%;
+        margin: 15%;
     }
 
  
